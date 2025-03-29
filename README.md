@@ -1,4 +1,4 @@
-Team SoPets SEP Project Update
+# Team SoPets SEP Project Update
 
 Date: 29 March 2025
 
