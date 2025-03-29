@@ -2,9 +2,9 @@
 
 Date: 29 March 2025
 
-## Background
+## Summary
 
-SoPets is not just another pet-rearing game—it’s a digital companion designed to create a meaningful, stress-free bond between the player and their SoPet. The game should be easy to play yet rewarding, emphasizing the growth and learning of new moves by the pet. All features must reflect real pet experiences—for example, hunger depletes to 0% only after 3 days, mimicking a real pet’s needs. This philosophy guides every mechanic to prioritize authenticity and player enjoyment without stress.
+SoPets is a digital companion game designed to create a meaningful, stress-free bond between players and their SoPet, emphasizing authentic pet care experiences. Over the past two months, we have made significant progress, designing and animating various pet nature styles with mix-and-match capabilities. We built a mobile MVP featuring core pet-rearing mechanics and demonstrated real-time multiplayer pet-sharing via Bluetooth and other technologies. Additionally, we developed a proof-of-concept for seamless native desktop integration, allowing SoPets to exist within the user’s workspace without disruption. To engage our audience, we also launched a project website to share updates and showcase our progress.
 
 ## Key Updates
 
