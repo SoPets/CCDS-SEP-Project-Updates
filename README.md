@@ -10,12 +10,17 @@ SoPets is not just another pet-rearing game—it’s a digital companion designe
 
 - Designed and animated multiple pet nature designs and demonstrated the mix-and-match capabilities of the pets.
 - Built a basic mobile application MVP that showcases basic pet-rearing features, and demonstrated the proof-of-concept for our online multiplayer pet-sharing mechanics, using Bluetooth and other realtime technologies.
+  
   <img src='https://github.com/SoPets/CCDS-SEP-Project-Updates/blob/main/images/290325-mobile.PNG?raw=true' width='200' height='440'></img>
-- Built the proof-of-concept of native desktop integration of our SoPet, where the digital pet can seamlessly exist within the bounds of the user's desktop, without interfering with the other windows.
-  <img src='https://github.com/SoPets/CCDS-SEP-Project-Updates/blob/main/images/290325-desktop_int.PNG?raw=true' width='500' height='300'></img>
-- Created a [project website](https://sopets.netlify.app/) to showcase SoPets, and to keep users updated on SoPet's progress.
-  <img src='https://github.com/SoPets/CCDS-SEP-Project-Updates/blob/main/images/290325-website.PNG?raw=true' width='500' height='300'></img>
 
+- Built the proof-of-concept of native desktop integration of our SoPet, where the digital pet can seamlessly exist within the bounds of the user's desktop, without interfering with the other windows.
+
+  <img src='https://github.com/SoPets/CCDS-SEP-Project-Updates/blob/main/images/290325-desktop_int.PNG?raw=true' width='500' height='300'></img>
+
+- Created a [project website](https://sopets.netlify.app/) to showcase SoPets, and to keep users updated on SoPet's progress.
+
+  <img src='https://github.com/SoPets/CCDS-SEP-Project-Updates/blob/main/images/290325-website.PNG?raw=true' width='500' height='300'></img>
+  
 For a video presentation on the progress, visit [HERE](https://github.com/SoPets/CCDS-SEP-Project-Updates/blob/main/video/290325_SoPets_CCDS_Video.mp4).
 
 ## Key Achievements
