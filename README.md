@@ -3,7 +3,7 @@
   
   <br/>
   
-  SoPets is reimagining how we connect by gamifying real world social interactions via cute one-of-a-kind digital pets.
+  SoPets is reimagining how we connect with each other by gamifying real world social interactions via cute one-of-a-kind digital pet companions.
   
   <small>
     <a href="https://sopetsnft.com/">Website</a> • 
