@@ -71,6 +71,8 @@ SoPets is a digital companion app designed to create a meaningful, stress-free b
   
 For a video presentation on the progress, visit [HERE](video/290325-SoPets_Video_Update.mp4).
 
+https://github.com/user-attachments/assets/9b332041-cf77-4b76-a2da-b0ad8ed1c9a7
+
 ## Key Achievements
 
 - Won 1st Place in the Web3 track for the [NTU Port63 Challenge AY24/25](https://www.ntu.edu.sg/innovates/port63#Content_C443_Col02), under the team name "Geek & Jeek".
