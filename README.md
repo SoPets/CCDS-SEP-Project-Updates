@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="images/logo.png" alt="SoPets Logo" width="440"/>
+  <img src="images/logo.png" alt="SoPets Logo" width="400"/>
   
   <br/>
   
@@ -11,6 +11,7 @@
   </small>
 
 </div>
+
 ---
 
 <div align="center">
