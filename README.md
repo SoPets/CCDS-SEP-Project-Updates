@@ -1,4 +1,23 @@
-# Team SoPets SEP Project Update
+<div align="center">
+  <img src="images/logo.png" alt="SoPets Logo" width="440"/>
+  
+  <br/>
+  
+  SoPets is reimagining how we connect by gamifying real world social interactions via cute one-of-a-kind digital pets.
+  
+  <small>
+    <a href="https://sopetsnft.com/">Website</a> • 
+    <a href="https://www.ntu.edu.sg/i-lab/news-events/news/story-detail sep-team-sopets-took-home-1st-place-at-the-port63-hackathon-(web-3-theme)">Port63 Champion</a>
+  </small>
+
+</div>
+---
+
+<div align="center">
+  <small>
+    <strong>CCDS SEP Project Updates</strong>
+  </small>
+</div>
 
 ### Date: 27 August 2025
 
