@@ -1,6 +1,31 @@
 # Team SoPets SEP Project Update
 
-Date: 29 March 2025
+### Date: 27 August 2025
+
+## Summary
+Over the past 3 months, we have made significant progress in terms of narrowing down our project scope, expanding our development team. We have finalised our project requirements and are laser focused on building a fully functional MVP to launch by early Q4' 2025. We have also made significant technical architectural changes and migrated our codebase into a completely new tech stack due to technical constraints we faced previously when building the proof-of-concept.
+
+## Key Updates
+- Rebuilt our entire infrastructure from the ground up with our frontend in Unity (C#) and the backend in SpacetimeDB, due to previous technological constraints.
+
+- Introduced 6 new unique mix-and-match subvariants as part of the new collection system.
+
+<img src="images/280825-pet-collection.png" alt="New pet collection variants">
+
+- Working on a new short feature trailer as part of our marketing and promotional plans. View the video [HERE](video/280825-SoPets_Trailer_WIP.mp4).
+
+
+- Working on a new near proximity device detection technology using Bluetooth Low Energy and ultrasonic technologies for our tap-to-connect functionality.
+
+- Updated our a [project website](https://sopetsnft.com) with our latest updates and plans.
+
+### Upcoming plans
+- To complete the MVP version of SoPets with tap-to-connect and pet collection mechanics to gamify real world social interactions.
+- Targeting to launch in early Q4' 2025, to validate our idea and get feedback from early users.
+
+
+---
+### Date: 29 March 2025
 
 ## Summary
 
