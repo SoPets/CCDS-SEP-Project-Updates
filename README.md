@@ -16,6 +16,7 @@ Over the past 3 months, we have made significant progress in terms of narrowing 
 
 - Working on a new short feature trailer as part of our marketing and promotional plans. View the video [HERE](video/280825-SoPets_Trailer_WIP.mp4).
 
+<img src="gif/290825-SoPets_Trailer_WIP.gif" alt="Game Trailer WIP" width="400">
 
 - Working on a new near proximity device detection technology using Bluetooth Low Energy and ultrasonic technologies for our tap-to-connect functionality.
 
