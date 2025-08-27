@@ -6,7 +6,9 @@
 Over the past 3 months, we have made significant progress in terms of narrowing down our project scope, expanding our development team. We have finalised our project requirements and are laser focused on building a fully functional MVP to launch by early Q4' 2025. We have also made significant technical architectural changes and migrated our codebase into a completely new tech stack due to technical constraints we faced previously when building the proof-of-concept.
 
 ## Key Updates
-- Rebuilt our entire infrastructure from the ground up with our frontend in Unity (C#) and the backend in SpacetimeDB, due to previous technological constraints.
+- Rebuilt our entire infrastructure from the ground up with our frontend in Unity (C#) and the backend in SpacetimeDB, due to previous technological constraints. View a video preview [HERE](video/280825-Game_Preview.mp4)
+
+<img src="gif/290825-Game_Preview.gif" alt="Game Preview" height="400">
 
 - Introduced 6 new unique mix-and-match subvariants as part of the new collection system.
 
@@ -46,7 +48,7 @@ SoPets is a digital companion app designed to create a meaningful, stress-free b
 
   <img src='https://github.com/SoPets/CCDS-SEP-Project-Updates/blob/main/images/290325-website.PNG?raw=true' width='500' height='300'></img>
   
-For a video presentation on the progress, visit [HERE](https://github.com/SoPets/CCDS-SEP-Project-Updates/blob/main/video/290325_SoPets_CCDS_Video.mp4).
+For a video presentation on the progress, visit [HERE](video/290325-SoPets_Video_Update.mp4).
 
 ## Key Achievements
 
