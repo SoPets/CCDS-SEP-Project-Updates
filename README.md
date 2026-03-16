@@ -20,6 +20,29 @@
   </small>
 </div>
 
+### Date: 13 March 2026
+
+## Summary
+Over the past few months, we have focused on polishing the SoPets desktop companion into a feature-rich experience. The desktop companion now includes a full breeding system, expanded pet collection with 10 skin variants, interactive petting mechanics, an experience levelling system, and engaging minigames — bringing us significantly closer to a complete and enjoyable user experience.
+
+## Key Updates
+- Polished the desktop companion with a full suite of features. View a video preview [HERE](video/130326-Desktop_Preview.mp4).
+
+<img src="gif/130326-Desktop_Preview.gif" alt="Desktop Preview" width="600">
+
+- Implemented a full breeding experience within the desktop companion, allowing users to breed and discover new pet combinations.
+- Expanded the pet collection to 10 unique skin variants, giving users more variety and collectibility.
+- Added interactive petting mechanics for a more engaging and personal bond with the user's SoPet.
+- Introduced an experience levelling system where pets grow and evolve through interaction and care.
+- Built multiple minigames to keep the experience fun and replayable.
+- General polish and refinements across the desktop companion for a smoother user experience.
+
+### Upcoming Plans
+- To continue refining and adding content to the desktop companion experience.
+- To prepare for public launch and gather early user feedback.
+
+
+---
 ### Date: 27 August 2025
 
 ## Summary
