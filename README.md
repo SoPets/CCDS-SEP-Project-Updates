@@ -6,7 +6,7 @@
   SoPets is reimagining how we connect with each other by gamifying real world social interactions via cute one-of-a-kind digital pet companions.
   
   <small>
-    <a href="https://sopetsnft.com/">Website</a> • 
+    <a href="https://www.sopetsofficial.com/">Website</a> • 
     <a href="https://www.ntu.edu.sg/i-lab/news-events/news/story-detail sep-team-sopets-took-home-1st-place-at-the-port63-hackathon-(web-3-theme)">Port63 Champion</a>
   </small>
 
@@ -26,7 +26,7 @@
 Over the past few months, we have focused on polishing the SoPets desktop companion into a feature-rich experience. The desktop companion now includes a full breeding system, expanded pet collection with 10 skin variants, interactive petting mechanics, an experience levelling system, and engaging minigames — bringing us significantly closer to a complete and enjoyable user experience.
 
 ## Key Updates
-- Polished the desktop companion with a full suite of features. View a video preview [HERE](video/130326-Desktop_Preview.mp4).
+- Polished the desktop companion with a full suite of features. View a video preview [HERE](video/130326-Desktop_Preview.mp4) | [YouTube](https://youtu.be/d1ePQ8s3ULo) | [YouTube](https://youtu.be/zfvkxovG1Q0).
 
 <img src="gif/130326-Desktop_Preview.gif" alt="Desktop Preview" width="600">
 
@@ -63,7 +63,7 @@ Over the past 3 months, we have made significant progress in terms of narrowing 
 
 - Working on a new near proximity device detection technology using Bluetooth Low Energy and ultrasonic technologies for our tap-to-connect functionality.
 
-- Updated our a [project website](https://sopetsnft.com) with our latest updates and plans.
+- Updated our a [project website](https://www.sopetsofficial.com) with our latest updates and plans.
 
 ### Upcoming plans
 - To complete the MVP version of SoPets with tap-to-connect and pet collection mechanics to gamify real world social interactions.
