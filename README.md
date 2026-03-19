@@ -14,6 +14,60 @@
 
 ---
 
+## Project Information
+
+### Team Composition
+
+SoPets is built by a lean founding team with strong technical backgrounds, primarily composed of software engineers. The team is led by **Yue Hang (CEO)**, who drives product vision, strategy, and community direction; and **Soong Jun Shen (CTO)** who leads the technical team.
+
+Given the product's heavy emphasis on emotional connection, storytelling, and character design, the team supplements its technical core by working with external creative talent. This includes artists and designers responsible for bringing SoPets' personalities and visual identity to life — an area identified as mission-critical to the product's success.
+
+**Technical Team:**
+- Tham Yao Xiang (NUS)
+- Yong Jun Xi (NUS)
+- Nicholas (NUS)
+
+**Creative Team:**
+- Chi (UI Lead)
+- Charlette (NTU) (UX)
+- Maxine (Illustrator)
+- Stevie (Illustrator)
+- Charmaine (NTU) (Illustrator)
+- Angeline (Illustrator)
+
+### Finance / Budget
+
+The majority of costs are concentrated in two areas:
+- **AI solutions**: tools used for asset generation, development acceleration, and experimentation with AI-driven interactions
+- **Creative talent acquisition**: outsourcing and collaborating with artists and designers to build a compelling companion experience
+
+### Start Date
+
+28 September 2024
+
+### Current Status
+
+SoPets has completed its initial release and early validation phase. The project has built a community of 111 members, with an even higher number of downloads. Downloads are always open at [sopetsofficial.com/downloads](https://www.sopetsofficial.com/downloads).
+
+### Awards
+
+- Port63 Champions
+- MDT Funded (NTUitive Incubated)
+
+### Competitions
+
+- VeChain Hackathon – 1st Runner Up
+- Port63 – Champions
+
+### Product News / Updates
+
+- Attended NTU CCDS Homecoming
+- [Port 63 Challenge Champion](https://www.ntu.edu.sg/innovates/news-events/port63#Content_C443_Col02)
+- [SoPets attending SWITCH 2025](https://www.linkedin.com/posts/leeyuehang_i-was-afraid-that-sopets-would-be-out-of-activity-7390690878283165696-uaTu)
+- [Reaching out to 100 people in NTU](https://www.linkedin.com/posts/leeyuehang_founderjourney-buildinpublic-sopets-activity-7389587817250635777-XK9T)
+
+---
+
 <div align="center">
   <small>
     <strong>CCDS SEP Project Updates</strong>
